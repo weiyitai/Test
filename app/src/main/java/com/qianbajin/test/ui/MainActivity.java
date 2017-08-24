@@ -38,6 +38,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void deleteDir(View view) {
+
+
 //        Executors.newSingleThreadExecutor().execute(new Runnable() {
 //            @Override
 //            public void run() {
